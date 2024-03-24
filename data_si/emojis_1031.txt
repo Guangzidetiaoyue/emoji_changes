@@ -1,0 +1,130 @@
+# subgroup: face-smiling
+1F600                                                  ; fully-qualified     # 😀 E1.0 grinning face
+1F603                                                  ; fully-qualified     # 😃 E0.6 grinning face with big eyes
+1F604                                                  ; fully-qualified     # 😄 E0.6 grinning face with smiling eyes
+1F601                                                  ; fully-qualified     # 😁 E0.6 beaming face with smiling eyes
+1F606                                                  ; fully-qualified     # 😆 E0.6 grinning squinting face
+1F605                                                  ; fully-qualified     # 😅 E0.6 grinning face with sweat
+1F923                                                  ; fully-qualified     # 🤣 E3.0 rolling on the floor laughing
+1F602                                                  ; fully-qualified     # 😂 E0.6 face with tears of joy
+1F642                                                  ; fully-qualified     # 🙂 E1.0 slightly smiling face
+1F643                                                  ; fully-qualified     # 🙃 E1.0 upside-down face
+1FAE0                                                  ; fully-qualified     # 🫠 E14.0 melting face
+1F609                                                  ; fully-qualified     # 😉 E0.6 winking face
+1F60A                                                  ; fully-qualified     # 😊 E0.6 smiling face with smiling eyes
+1F607                                                  ; fully-qualified     # 😇 E1.0 smiling face with halo
+
+# subgroup: face-affection
+1F970                                                  ; fully-qualified     # 🥰 E11.0 smiling face with hearts
+1F60D                                                  ; fully-qualified     # 😍 E0.6 smiling face with heart-eyes
+1F929                                                  ; fully-qualified     # 🤩 E5.0 star-struck
+1F618                                                  ; fully-qualified     # 😘 E0.6 face blowing a kiss
+1F617                                                  ; fully-qualified     # 😗 E1.0 kissing face
+263A FE0F                                              ; fully-qualified     # ☺️ E0.6 smiling face
+263A                                                   ; unqualified         # ☺ E0.6 smiling face
+1F61A                                                  ; fully-qualified     # 😚 E0.6 kissing face with closed eyes
+1F619                                                  ; fully-qualified     # 😙 E1.0 kissing face with smiling eyes
+1F972                                                  ; fully-qualified     # 🥲 E13.0 smiling face with tear
+
+# subgroup: face-tongue
+1F60B                                                  ; fully-qualified     # 😋 E0.6 face savoring food
+1F61B                                                  ; fully-qualified     # 😛 E1.0 face with tongue
+1F61C                                                  ; fully-qualified     # 😜 E0.6 winking face with tongue
+1F92A                                                  ; fully-qualified     # 🤪 E5.0 zany face
+1F61D                                                  ; fully-qualified     # 😝 E0.6 squinting face with tongue
+1F911                                                  ; fully-qualified     # 🤑 E1.0 money-mouth face
+
+# subgroup: face-hand
+1F917                                                  ; fully-qualified     # 🤗 E1.0 smiling face with open hands
+1F92D                                                  ; fully-qualified     # 🤭 E5.0 face with hand over mouth
+1FAE2                                                  ; fully-qualified     # 🫢 E14.0 face with open eyes and hand over mouth
+1FAE3                                                  ; fully-qualified     # 🫣 E14.0 face with peeking eye
+1F92B                                                  ; fully-qualified     # 🤫 E5.0 shushing face
+1F914                                                  ; fully-qualified     # 🤔 E1.0 thinking face
+1FAE1                                                  ; fully-qualified     # 🫡 E14.0 saluting face
+
+# subgroup: face-neutral-skeptical
+1F910                                                  ; fully-qualified     # 🤐 E1.0 zipper-mouth face
+1F928                                                  ; fully-qualified     # 🤨 E5.0 face with raised eyebrow
+1F610                                                  ; fully-qualified     # 😐 E0.7 neutral face
+1F611                                                  ; fully-qualified     # 😑 E1.0 expressionless face
+1F636                                                  ; fully-qualified     # 😶 E1.0 face without mouth
+1FAE5                                                  ; fully-qualified     # 🫥 E14.0 dotted line face
+1F636 200D 1F32B FE0F                                  ; fully-qualified     # 😶‍🌫️ E13.1 face in clouds
+1F636 200D 1F32B                                       ; minimally-qualified # 😶‍🌫 E13.1 face in clouds
+1F60F                                                  ; fully-qualified     # 😏 E0.6 smirking face
+1F612                                                  ; fully-qualified     # 😒 E0.6 unamused face
+1F644                                                  ; fully-qualified     # 🙄 E1.0 face with rolling eyes
+1F62C                                                  ; fully-qualified     # 😬 E1.0 grimacing face
+1F62E 200D 1F4A8                                       ; fully-qualified     # 😮‍💨 E13.1 face exhaling
+1F925                                                  ; fully-qualified     # 🤥 E3.0 lying face
+
+# subgroup: face-sleepy
+1F60C                                                  ; fully-qualified     # 😌 E0.6 relieved face
+1F614                                                  ; fully-qualified     # 😔 E0.6 pensive face
+1F62A                                                  ; fully-qualified     # 😪 E0.6 sleepy face
+1F924                                                  ; fully-qualified     # 🤤 E3.0 drooling face
+1F634                                                  ; fully-qualified     # 😴 E1.0 sleeping face
+
+# subgroup: face-unwell
+1F637                                                  ; fully-qualified     # 😷 E0.6 face with medical mask
+1F912                                                  ; fully-qualified     # 🤒 E1.0 face with thermometer
+1F915                                                  ; fully-qualified     # 🤕 E1.0 face with head-bandage
+1F922                                                  ; fully-qualified     # 🤢 E3.0 nauseated face
+1F92E                                                  ; fully-qualified     # 🤮 E5.0 face vomiting
+1F927                                                  ; fully-qualified     # 🤧 E3.0 sneezing face
+1F975                                                  ; fully-qualified     # 🥵 E11.0 hot face
+1F976                                                  ; fully-qualified     # 🥶 E11.0 cold face
+1F974                                                  ; fully-qualified     # 🥴 E11.0 woozy face
+1F635                                                  ; fully-qualified     # 😵 E0.6 face with crossed-out eyes
+1F635 200D 1F4AB                                       ; fully-qualified     # 😵‍💫 E13.1 face with spiral eyes
+1F92F                                                  ; fully-qualified     # 🤯 E5.0 exploding head
+
+# subgroup: face-hat
+1F920                                                  ; fully-qualified     # 🤠 E3.0 cowboy hat face
+1F973                                                  ; fully-qualified     # 🥳 E11.0 partying face
+1F978                                                  ; fully-qualified     # 🥸 E13.0 disguised face
+
+# subgroup: face-glasses
+1F60E                                                  ; fully-qualified     # 😎 E1.0 smiling face with sunglasses
+1F913                                                  ; fully-qualified     # 🤓 E1.0 nerd face
+1F9D0                                                  ; fully-qualified     # 🧐 E5.0 face with monocle
+
+# subgroup: face-concerned
+1F615                                                  ; fully-qualified     # 😕 E1.0 confused face
+1FAE4                                                  ; fully-qualified     # 🫤 E14.0 face with diagonal mouth
+1F61F                                                  ; fully-qualified     # 😟 E1.0 worried face
+1F641                                                  ; fully-qualified     # 🙁 E1.0 slightly frowning face
+2639 FE0F                                              ; fully-qualified     # ☹️ E0.7 frowning face
+2639                                                   ; unqualified         # ☹ E0.7 frowning face
+1F62E                                                  ; fully-qualified     # 😮 E1.0 face with open mouth
+1F62F                                                  ; fully-qualified     # 😯 E1.0 hushed face
+1F632                                                  ; fully-qualified     # 😲 E0.6 astonished face
+1F633                                                  ; fully-qualified     # 😳 E0.6 flushed face
+1F97A                                                  ; fully-qualified     # 🥺 E11.0 pleading face
+1F979                                                  ; fully-qualified     # 🥹 E14.0 face holding back tears
+1F626                                                  ; fully-qualified     # 😦 E1.0 frowning face with open mouth
+1F627                                                  ; fully-qualified     # 😧 E1.0 anguished face
+1F628                                                  ; fully-qualified     # 😨 E0.6 fearful face
+1F630                                                  ; fully-qualified     # 😰 E0.6 anxious face with sweat
+1F625                                                  ; fully-qualified     # 😥 E0.6 sad but relieved face
+1F622                                                  ; fully-qualified     # 😢 E0.6 crying face
+1F62D                                                  ; fully-qualified     # 😭 E0.6 loudly crying face
+1F631                                                  ; fully-qualified     # 😱 E0.6 face screaming in fear
+1F616                                                  ; fully-qualified     # 😖 E0.6 confounded face
+1F623                                                  ; fully-qualified     # 😣 E0.6 persevering face
+1F61E                                                  ; fully-qualified     # 😞 E0.6 disappointed face
+1F613                                                  ; fully-qualified     # 😓 E0.6 downcast face with sweat
+1F629                                                  ; fully-qualified     # 😩 E0.6 weary face
+1F62B                                                  ; fully-qualified     # 😫 E0.6 tired face
+1F971                                                  ; fully-qualified     # 🥱 E12.0 yawning face
+# subgroup: face-negative
+1F624                                                  ; fully-qualified     # 😤 E0.6 face with steam from nose
+1F621                                                  ; fully-qualified     # 😡 E0.6 pouting face
+1F620                                                  ; fully-qualified     # 😠 E0.6 angry face
+1F92C                                                  ; fully-qualified     # 🤬 E5.0 face with symbols on mouth
+1F608                                                  ; fully-qualified     # 😈 E1.0 smiling face with horns
+1F47F                                                  ; fully-qualified     # 👿 E0.6 angry face with horns
+1F480                                                  ; fully-qualified     # 💀 E0.6 skull
+2620 FE0F                                              ; fully-qualified     # ☠️ E1.0 skull and crossbones
+2620                                                   ; unqualified         # ☠ E1.0 skull and crossbones
